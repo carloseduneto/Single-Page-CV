@@ -1,3 +1,19 @@
-*{
-    font-family: ;
+* {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.title-green{
+    color: #2f9e44;
+    font-weight: bold;
+}
+
+.subtitle-blue{
+    color: #1971c2;
+    font-weight: bold;
+}
+
+.block-info{
+    display: flex;
+    flex-direction: column;
 }
