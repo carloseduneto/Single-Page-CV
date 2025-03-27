@@ -6,11 +6,14 @@
 .title-green{
     color: #2f9e44;
     font-weight: bold;
+    margin-top: 5%;
+
 }
 
 .subtitle-blue{
     color: #1971c2;
     font-weight: bold;
+    margin-top: 3%;
 }
 
 .block-info{
